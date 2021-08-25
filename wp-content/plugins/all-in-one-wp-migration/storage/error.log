@@ -1,0 +1,6 @@
+Aug 23 2021 11:10:46
+{"type":2,"message":"Declaration of c2c_ConfigureSMTP::options_page_description() should be compatible with C2C_Plugin_023::options_page_description($localized_heading_text = '')","file":"C:\\xampp\\htdocs\\Tagline\\wp-content\\plugins\\configure-smtp\\configure-smtp.php","line":171}
+
+Aug 23 2021 11:10:48
+{"type":2,"message":"Declaration of c2c_ConfigureSMTP::options_page_description() should be compatible with C2C_Plugin_023::options_page_description($localized_heading_text = '')","file":"C:\\xampp\\htdocs\\Tagline\\wp-content\\plugins\\configure-smtp\\configure-smtp.php","line":171}
+
